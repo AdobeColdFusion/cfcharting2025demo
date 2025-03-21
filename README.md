@@ -2,7 +2,7 @@ Demo application assets for CF25 beta launch.
 
 To run this, do the following:
 
-- Download files to your cfusion director for CF25 in a folder named cf25demo-spreadsheet.
+- Download files to your cfusion director for CF25 in a folder named cf25demo-charting.
 - In that folder, create two more folders: "data" and "tempdata". Those will hold your CSVs.
 - In the application.cfc, make sure that the rootdiskPath, rootappPath, and datadiskpath all match your environment.
 - You can now put as many CSV files as you'd like in the "data" folder and the app will allow you to view, edit, and search them using the new CF25 features. You can also create a new CSV.
