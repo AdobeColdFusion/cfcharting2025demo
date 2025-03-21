@@ -11,3 +11,4 @@ Notes:
 
 - There seems to be a bug where sometimes the CSVs are overwriting each other. I'm uncertain as to why and have not been able to track down the logic error.
 - I would love to add more options/charting types (and eventually themes) here
+- You _will_ need to have the charting package installed (only affects folks who script or zip install CF)
