@@ -1,0 +1,2 @@
+<cfhtmltopdf destination="dashboard-pdf-output.pdf" overwrite="true" source="mortgage.html" orientation="landscape" pagetype="custom" pageheight="8.5" pagewidth="11"></cfhtmltopdf>
+<cfcontent file="dashboard-pdf-output.pdf" type="application/pdf" >
