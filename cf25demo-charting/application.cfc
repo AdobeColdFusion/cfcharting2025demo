@@ -14,7 +14,7 @@ component {
     function onRequestStart(){
         // Instantiation state on first request load
         // Set root paths to match environment
-        request.rootdiskPath = "C:\CFNextAlpha\cfusion\wwwroot\cf25demo-charting\";
+        request.rootdiskPath = "C:\ColdFusion2025\cfusion\wwwroot\cf25demo-charting\";
         request.rootappPath = "/cf25demo-charting/";
         request.datadiskpath = "\data\"
     }
